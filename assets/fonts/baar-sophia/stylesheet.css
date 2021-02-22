@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Baar Sophia';
+    src: url('BaarSophiaBoldItalic.woff2') format('woff2'),
+        url('BaarSophiaBoldItalic.woff') format('woff'),
+        url('BaarSophiaBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baar Sophia';
+    src: url('BaarSophia.woff2') format('woff2'),
+        url('BaarSophia.woff') format('woff'),
+        url('BaarSophia.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baar Sophia';
+    src: url('BaarSophiaBold.woff2') format('woff2'),
+        url('BaarSophiaBold.woff') format('woff'),
+        url('BaarSophiaBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Baar Sophia';
+    src: url('BaarSophiaItalic.woff2') format('woff2'),
+        url('BaarSophiaItalic.woff') format('woff'),
+        url('BaarSophiaItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
