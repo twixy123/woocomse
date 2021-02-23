@@ -78,11 +78,14 @@ main {
   font-size: 22px;
 }
 
-.add_to_cart_block__form .add_to_cart_block__variable_block {
+.add_to_cart_block__variable_block {
   display: flex;
   flex-wrap: wrap;
   position: relative;
   justify-content: center;
+}
+
+.add_to_cart_block__form .add_to_cart_block__variable_block{
   border-left: 2px solid rgb(230, 230, 230);
   border-right: 2px solid rgb(230, 230, 230);
 }
