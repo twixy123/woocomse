@@ -78,7 +78,7 @@ main {
   font-size: 22px;
 }
 
-.add_to_cart_block__variable_block {
+.add_to_cart_block__form .add_to_cart_block__variable_block {
   display: flex;
   flex-wrap: wrap;
   position: relative;
