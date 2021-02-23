@@ -11,6 +11,7 @@
   max-width: 1200px;
   margin: 0px auto;
   padding: 0 35px;
+  box-sizing: border-box;
 }
 
 body {
@@ -537,10 +538,6 @@ main {
   .add_to_cart_block__form_1 .img_block {
     width: 80%;
     margin-bottom: 30px;
-  }
-
-  .add_to_cart_block__form_1 {
-    width: 80%;
   }
 
   .add_to_cart_block__variable_block {
